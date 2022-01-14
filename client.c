@@ -56,11 +56,5 @@ int main(int argc, char *argv[])
     shit_tfker(0);
     //signal(SIGUSR2, handler_sigusr);
         usleep(200);
-
-    //pause();
-    //signal(SIGUSR2, handler_sigusr);
-   
-//    while (1)
-//         usleep(1);
     return (0);
 }
